@@ -1,7 +1,5 @@
-# new feature
-# Tags: optional
-
 Feature: A description
 
   Scenario: A scenario
-    Given something..
+    Given enter password
+    Then I click on homepage
